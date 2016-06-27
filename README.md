@@ -6,7 +6,7 @@
 
 ### How to use
 
-1. Download the executable
+1. Download the [executable](/bin/spritesheet-splitter.exe)
 2. Run `spritesheet-splitter.exe` with the following commands:
 
 ```
