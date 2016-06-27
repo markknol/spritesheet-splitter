@@ -1,7 +1,7 @@
 # Spritesheet image splitter
 
 > Command-line tool to split spritesheets into separate images.  
-> Because some people needs this sometimes.
+> Because some people need this sometimes.
 
 
 ### How to use
