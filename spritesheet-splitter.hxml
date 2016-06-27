@@ -1,0 +1,5 @@
+-lib nme
+-lib hxargs
+-cp src
+-neko bin/spritesheet-splitter.n
+-main Main
